@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="app_name">TkQeQv2</string>
+    <string name="com">ComunicaciÃ³n</string>
+    <string name="english">WHO IS WHO AT TKNIKA</string>
+    <string name="espanol">QUIÃN ES QUIEN EN TKNIKA</string>
+    <string name="euskara">ZEIN DA ZEIN TKNIKAN</string>
+    <string name="exe">DirecciÃ³n</string>
+    <string name="exec">executive</string>
+    <string name="gen">Servicios Generales</string>
+    <string name="gene">general</string>
+    <string name="ict">TIC</string>
+    <string name="ictt">ict</string>
+    <string name="imagen">Imagen</string>
+    <string name="inn">GestiÃ³n de los Centros</string>
+    <string name="inno">innovation</string>
+    <string name="man">Emprendimiento</string>
+    <string name="mana">enterpreneushipment</string>
+    <string name="menu_settings">Settings</string>
+    <string name="naz">InternacionalizaciÃ³n</string>
+    <string name="nazi">internationalization</string>
+    <string name="proiektuak">Proyectos que gestiona:</string>
+    <string name="tec">TecnologÃ­a</string>
+    <string name="tech">technology</string>
+    <string name="title_activity_detalleitem">Contacta conmigo</string>
+    <string name="title_activity_listajson">Para lo que haga falta</string>
+    <string name="title_activity_qe_qmain">QuiÃ©n es quien en Tknika</string>
+    <string name="title_activity_qeqmain">Elige el Ãrea</string>
+    <string name="tra">FormaciÃ³n</string>
+    <string name="trai">training</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

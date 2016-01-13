@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TkQeQv2</string>
+    <string name="com">Communication</string>
+    <string name="english">WHO IS WHO AT TKNIKA</string>
+    <string name="espanol">QUIÃN ES QUIEN EN TKNIKA</string>
+    <string name="euskara">ZEIN DA ZEIN TKNIKAN</string>
+    <string name="exe">Director</string>
+    <string name="exec">executive</string>
+    <string name="gen">General Services</string>
+    <string name="gene">general</string>
+    <string name="ict">ICT</string>
+    <string name="ictt">ict</string>
+    <string name="imagen">Imagen</string>
+    <string name="inn">School Management</string>
+    <string name="inno">innovation</string>
+    <string name="man">Entrepreneurship</string>
+    <string name="mana">enterpreneushipment</string>
+    <string name="menu_settings">Settings</string>
+    <string name="naz">Internationalization</string>
+    <string name="nazi">internationalization</string>
+    <string name="proiektuak">Managing projects:</string>
+    <string name="tec">Technology</string>
+    <string name="tech">technology</string>
+    <string name="title_activity_detalleitem">Contact me!</string>
+    <string name="title_activity_listajson">At your service</string>
+    <string name="title_activity_qe_qmain">Who is who at Tknika</string>
+    <string name="title_activity_qeqmain">Select an Area</string>
+    <string name="tra">Training</string>
+    <string name="trai">training</string>
+</resources>

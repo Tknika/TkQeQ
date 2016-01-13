@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/layout/item.xml",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/layout/item.xml"
+    },
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/layout/activity_qeq_main.xml",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/layout/activity_qeq_main.xml"
+    },
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/layout/sarrera.xml",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/layout/sarrera.xml"
+    },
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/layout/detalleitem.xml",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/layout/detalleitem.xml"
+    },
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/layout/lista_json.xml",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/layout/lista_json.xml"
+    }
+]

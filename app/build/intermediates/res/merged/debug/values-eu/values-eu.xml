@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TkQeQv2</string>
+    <string name="com">Komunikazioa</string>
+    <string name="english">WHO IS WHO AT TKNIKA</string>
+    <string name="espanol">QUIÃN ES QUIEN EN TKNIKA</string>
+    <string name="euskara">ZEIN DA ZEIN TKNIKAN</string>
+    <string name="exe">Zuzendaritza</string>
+    <string name="exec">executive</string>
+    <string name="gen">Zerbitzu Orokorrak</string>
+    <string name="gene">general</string>
+    <string name="ict">IKT</string>
+    <string name="ictt">ict</string>
+    <string name="imagen">Imagen</string>
+    <string name="inn">Ikastetxeetako Kudeaketa</string>
+    <string name="inno">innovation</string>
+    <string name="man">Ekintzailetza</string>
+    <string name="mana">enterpreneushipment</string>
+    <string name="menu_settings">Settings</string>
+    <string name="naz">Nazioartekotzea</string>
+    <string name="nazi">internationalization</string>
+    <string name="proiektuak">Kudeatzen dituen proiektuak:</string>
+    <string name="tec">Teknologia</string>
+    <string name="tech">technology</string>
+    <string name="title_activity_detalleitem">Harremanetan jartzeko</string>
+    <string name="title_activity_listajson">Zure esanetara</string>
+    <string name="title_activity_qe_qmain">Zein da zein Tknikan</string>
+    <string name="title_activity_qeqmain">Aukera ezazu Arloa</string>
+    <string name="tra">Formazioa</string>
+    <string name="trai">training</string>
+</resources>

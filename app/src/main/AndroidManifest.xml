@@ -1,0 +1,53 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tkapp.tkqeq"
+    android:versionCode="1"
+    android:versionName="1.0" 
+    android:configChanges="orientation|keyboardHidden"
+	android:screenOrientation="portrait">
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="15" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        
+        <activity
+            android:name=".QeQMainActivity"
+            android:label="@string/title_activity_qe_qmain" 
+            
+            android:configChanges="orientation|keyboardHidden"
+			android:screenOrientation="portrait">
+			<intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            
+        </activity>
+         <activity 
+            android:name=".ListaJson"
+            android:label="@string/title_activity_listajson" 
+            
+            android:configChanges="orientation|keyboardHidden"
+			android:screenOrientation="portrait">            
+        </activity>
+        <activity 
+            android:name=".DetalleItem"
+            android:label="@string/title_activity_detalleitem" 
+            android:theme="@android:style/Theme.Light.NoTitleBar"
+            
+            android:configChanges="orientation|keyboardHidden"
+			android:screenOrientation="portrait">        
+        </activity>
+        <!--Para presentar a modo de Pop-up 
+          android:theme="@android:style/Theme.Dialog" -->
+        
+    </application>
+
+</manifest>

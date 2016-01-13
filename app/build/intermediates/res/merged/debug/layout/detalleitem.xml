@@ -1,0 +1,141 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation = "vertical"
+    android:background="#666666"
+    android:gravity="center_horizontal"
+    >
+    <ImageView 
+        android:id="@+id/photo"
+        android:contentDescription= "@string/imagen"
+        android:layout_width="100dip"
+        android:layout_height="100dip"
+        android:gravity="center_horizontal"
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+        android:layout_marginTop="10dip"
+        android:layout_marginBottom="5dip"
+        />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="vertical"
+    	android:gravity="center_vertical"
+    	android:paddingBottom="5dip"
+    	>
+
+        <LinearLayout
+   		    android:layout_width="fill_parent"
+   		    android:layout_height="wrap_content" 
+   		 	android:orientation = "horizontal"
+    		android:gravity="center_vertical"
+    		>
+    		<TextView
+        		android:id="@+id/name"
+        		android:layout_width="wrap_content"
+       			android:layout_height="wrap_content"
+       			android:textColor="#FFFFFF"
+        		android:textSize="30dip"
+        		android:textStyle="bold"
+        		android:maxLines="2"
+        		android:paddingRight="5dip"
+     		/>
+    		<TextView
+        		android:id="@+id/surname1"
+        		android:layout_width="wrap_content"
+        		android:layout_height="wrap_content"
+        		android:textColor="#FFFFFF"
+        		android:textSize="30dip"
+        		android:maxLines="2"
+        		android:textStyle="bold"
+     		/>
+   		</LinearLayout>
+   		
+   		<TextView
+        	android:id="@+id/role"
+        	android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:textColor="#FFFFFF"
+	        android:maxLines="1"
+	        android:textSize="20dip"
+	        android:textStyle="bold"
+	        android:paddingBottom="10dip"
+     	/>
+   		<TextView
+        	android:id="@+id/projects"
+        	android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:textColor="#FFFFFF"
+	        android:maxLines="1"
+	        android:textSize="20dip"
+	        android:textStyle="bold"
+	        android:paddingBottom="2dip"
+     	/>
+   		<TextView
+        	android:id="@+id/relatedprojects"
+        	android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:textColor="#FFFFFF"
+	        android:maxLines="8"
+	        android:textSize="15dip"
+	        android:paddingBottom="10dip"
+     	/>
+   	</LinearLayout>
+   		
+   		   			   		
+   		<LinearLayout
+   		    android:layout_width="fill_parent"
+   		    android:layout_height="wrap_content" 
+   		 	android:orientation = "horizontal"
+    		android:paddingTop="3dip"
+    		android:paddingBottom="3dip"   
+    		>
+    		
+    		<ImageButton
+            android:id="@+id/buttontel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+			android:layout_marginBottom="10dip"
+			android:layout_weight="1"
+			android:scaleType="centerInside"
+			android:background="@drawable/moldear_boton"
+			android:src="@drawable/ic_action_end_call"
+			android:contentDescription="Llamada a Tknika"
+			/>
+    		<ImageButton
+            android:id="@+id/buttonemail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+			android:layout_marginBottom="10dip"
+			android:layout_weight="1"
+			android:scaleType="centerInside"
+			android:background="@drawable/moldear_boton"
+			android:src="@drawable/ic_action_email"
+			android:contentDescription="EnvÃ­o de correo"
+			/>
+    		<ImageButton
+            android:id="@+id/buttoncel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+			android:layout_marginBottom="10dip"
+			android:layout_weight="1"
+			android:scaleType="centerInside"
+			android:background="@drawable/moldear_boton"
+			android:src="@drawable/ic_action_phone"
+			android:contentDescription="Llamada a MÃ³vil"
+			/>
+    		
+   		</LinearLayout>
+  
+</LinearLayout>

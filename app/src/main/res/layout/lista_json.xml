@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation = "vertical"
+    android:background="#CBD300"
+    tools:context=".ListaJson" >
+    
+    <!--  <TextView
+        android:id="@+id/tvJson"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_medium"
+        tools:context=".ListaJson" 
+     />-->
+    
+    <!-- Para tratar el id en una ListActivity siempre hay que usar esta referencia -->
+    
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@android:id/list"
+        
+        
+     />
+<!-- android:id="@android:id/list" -->
+</LinearLayout>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/moldear_boton_blanco.xml",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/drawable-hdpi/moldear_boton_blanco.xml"
+    },
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_end_call.png",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/drawable-hdpi/ic_action_end_call.png"
+    },
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/logotknikatrilinguenegro.png",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/drawable-hdpi/logotknikatrilinguenegro.png"
+    },
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/moldear_boton_verde.xml",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/drawable-hdpi/moldear_boton_verde.xml"
+    },
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_phone.png",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/drawable-hdpi/ic_action_phone.png"
+    },
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_email.png",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/drawable-hdpi/ic_action_email.png"
+    },
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/moldear_boton_rojo.xml",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/drawable-hdpi/moldear_boton_rojo.xml"
+    },
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_search.png",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/logotknika_tra_220_60.png",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/drawable-hdpi/logotknika_tra_220_60.png"
+    },
+    {
+        "merged": "/home/gaizka/StudioProjects/TkQeQv2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/moldear_boton.xml",
+        "source": "/home/gaizka/StudioProjects/TkQeQv2/app/src/main/res/drawable-hdpi/moldear_boton.xml"
+    }
+]
